@@ -6,4 +6,4 @@
 
 ### Donaciones
 
-[paypal.me/edepe](paypal.me/edepe)
+[paypal.me/edepe](https://paypal.me/edepe)
