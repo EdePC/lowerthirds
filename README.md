@@ -1,4 +1,7 @@
 ## Animaciones YouTube
+
+------
+
 ![YouTube_01.gif](YouTube_01.gif)
 
 - Formato: PSD (Photoshop)
@@ -7,7 +10,21 @@
 - Descarga: [YouTube_01.psd](https://github.com/EdePC/lowerthirds/raw/master/YouTube_01.psd)
 - Realizado en Photoshop CS6 con únicamente vectores
 
+------
+
+![YouTube_02](YouTube_02.gif)
+
+- Formato: PSD (Photoshop)
+- Peso: 203 KB
+- Tamaño: 720 x 200 píxeles
+- Descarga: [YouTube_02.psd](https://github.com/EdePC/lowerthirds/raw/master/YouTube_02.psd)
+- Realizado en Photoshop CS6 con únicamente vectores
+
+------
+
 #### Todavía trabajando en nuevos formatos y más...
+
+------
 
 ## PSD a MOV con transparencia
 
@@ -39,5 +56,11 @@
 
 5. Importa tu video y disfrútalo
 
-### Donaciones
+## Basados en Vectores
+
+Se puede escalar sin perder calidad. Ejemplo de escala a 8K:
+
+<img src="lossless_scalable.gif" alt="lossless_scalable"  />
+
+## Donaciones
 [paypal.me/edepe](https://paypal.me/edepe)
