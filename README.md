@@ -22,11 +22,12 @@
 
 2. Editar el texto que interese
 
-   ![edit_your_name.gif](edit_your_name.gif)
-
    - Doble click en la capa de texto
    - Editar el texto
    - Aceptar el cambio
+
+   ![edit_your_name.gif](edit_your_name.gif)
+
 
 3. Archivo > Exportar > Interpretar video
 
@@ -36,7 +37,7 @@
 
    ![config_alpha_mov.png](config_alpha_mov.png)
 
-   5. Importa tu video y disfrútalo
+5. Importa tu video y disfrútalo
 
 ### Donaciones
 [paypal.me/edepe](https://paypal.me/edepe)
