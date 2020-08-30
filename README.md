@@ -22,12 +22,21 @@
 
 ------
 
+![YouTube_03](YouTube_03.gif)
+
+- Formato: PSD (Photoshop)
+- Peso: 203 KB
+- Tamaño: 720 x 200 píxeles
+- Descarga: [YouTube_03.psd](https://github.com/EdePC/lowerthirds/raw/master/YouTube_03.psd)
+- Realizado en Photoshop CS6 con únicamente vectores
+
+------
+
 #### Todavía trabajando en nuevos formatos y más...
 
 ------
 
 ## PSD a MOV con transparencia
-
 ### Requisitos
 
 1. Adobe Photoshop CS6 o superior
