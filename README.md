@@ -60,9 +60,11 @@ Se puede escalar sin perder calidad. Ejemplo de escala a 8K:
 
 Recomiendo ajustar la escala directamente en el Photoshop antes de crear el video para evitar en lo menor posible re-escalar el video y perder calidad, claro que siempre se puede re-escalar un poquito para hacer ajustes, en este caso mejor crear el video un poco más grande para siempre evitar ampliar, ya que es preferible ampliar que reducir.
 
-# Dudas preguntas y sugerencias
+# Dudas, preguntas y sugerencias
 
-https://github.com/EdePC/lowerthirds/issues
+Click en el siguiente enlace para dejar tus dudas, preguntas y sugerencias
+
+[https://github.com/EdePC/lowerthirds/issues](https://github.com/EdePC/lowerthirds/issues)
 
 # Donaciones
 
