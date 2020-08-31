@@ -26,3 +26,7 @@
    ![config_alpha_mov.png](config_alpha_mov.png)
 
 5. Importa tu video en tu editor de video, software streaming, OBS, etc
+
+# Volver a la página principal
+
+[Click para volver a la página principal](../)
