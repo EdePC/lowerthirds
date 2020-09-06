@@ -36,6 +36,20 @@
 - Descarga: [YouTube_03.psd](https://github.com/EdePC/lowerthirds/raw/master/YouTube_03.psd)
 - Realizado en Photoshop CS6 con únicamente vectores
 
+# Animaciones Instagram
+
+## Etiquetas para tu nombre
+
+---
+
+![Instagram_01](Instagram_01.gif)
+
+- Formato: PSD (Photoshop)
+- Peso: 610 KB
+- Tamaño: 717 x 201 píxeles
+- Descarga: [Instagram_01.psd](https://github.com/EdePC/lowerthirds/raw/master/Instagram_01.psd)
+- Realizado en Photoshop CS6 con únicamente vectores
+
 ------
 
 ## Todavía trabajando en nuevos formatos y más...
