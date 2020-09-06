@@ -1,6 +1,6 @@
-# Animaciones YouTube
+# 1. Animaciones YouTube
 
-## Etiquetas para tu nombre
+## 1.1. Etiquetas para tu nombre
 
 ------
 
@@ -24,7 +24,7 @@
 
 ------
 
-## Botones de Like, Suscribirse y Notificaciones
+## 1.2. Botones de Like, Suscribirse y Notificaciones
 
 ---
 
@@ -36,9 +36,9 @@
 - Descarga: [YouTube_03.psd](https://github.com/EdePC/lowerthirds/raw/master/YouTube_03.psd)
 - Realizado en Photoshop CS6 con únicamente vectores
 
-# Animaciones Instagram
+# 2. Animaciones Instagram
 
-## Etiquetas para tu nombre
+## 1.1. Etiquetas para tu nombre
 
 ---
 
@@ -52,21 +52,23 @@
 
 ------
 
-## Todavía trabajando en nuevos formatos y más...
+# Todavía trabajando en nuevos formatos y más...
 
 ------
 
-# Tutoriales
+# 3. TUTORIALES
 
-## PSD a MOV con transparencia
+## 3.1. PSD a MOV con transparencia
 
-### Convierte los .PSD a Video fácilmente
+### - Convierte los .PSD a Video fácilmente
 
 Sigue los pasos del siguiente tutorial para convertir los formatos Photoshop .PSD descargados a formato de Video .MOV con transparencia. Luego podrás importarlos a tu editor de video favorito, o a cualquier otro software que importe videos .MOV como OBS, Adobe Afer Effects, Adobe Premier, etc
 
 [Convierte los .PSD a video fácilmente](tutorials/)
 
-# Basados en Vectores Re-Escalables
+## 3.2. Basados en Vectores Re-Escalables
+
+### - Puedes escalar (ampliar o reducir) sin perder calidad
 
 Se puede escalar sin perder calidad. Ejemplo de escala a 8K:
 
