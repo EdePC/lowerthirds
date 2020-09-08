@@ -38,7 +38,7 @@
 
 # 2. Animaciones Instagram
 
-## 1.1. Etiquetas para tu nombre
+## 2.1. Etiquetas para tu nombre
 
 ---
 
@@ -52,13 +52,29 @@
 
 ------
 
+# 3. Animaciones Smartphone
+
+## 3.1. Máscara Smartphone hablando
+
+---
+
+![Smartphone_01](Smartphone_01.gif)
+
+- Formato: PSD (Photoshop)
+- Peso: 524 KB
+- Tamaño: 472 x 942 píxeles
+- Descarga: [Smartphone_01.psd](https://github.com/EdePC/lowerthirds/raw/master/Smartphone_01.psd)
+- Realizado en Photoshop CS6 con únicamente vectores
+
+------
+
 # Todavía trabajando en nuevos formatos y más...
 
 ------
 
-# 3. TUTORIALES
+# 4. TUTORIALES
 
-## 3.1. PSD a MOV con transparencia
+## 4.1. PSD a MOV con transparencia
 
 ### - Convierte los .PSD a Video fácilmente
 
@@ -66,7 +82,7 @@ Sigue los pasos del siguiente tutorial para convertir los formatos Photoshop .PS
 
 [Convierte los .PSD a video fácilmente](tutorials/)
 
-## 3.2. Basados en Vectores Re-Escalables
+## 4.2. Basados en Vectores Re-Escalables
 
 ### - Puedes escalar (ampliar o reducir) sin perder calidad
 
@@ -76,12 +92,12 @@ Se puede escalar sin perder calidad. Ejemplo de escala a 8K:
 
 Recomiendo ajustar la escala directamente en el Photoshop antes de crear el video para evitar en lo menor posible re-escalar el video y perder calidad, claro que siempre se puede re-escalar un poquito para hacer ajustes, en este caso mejor crear el video un poco más grande para siempre evitar ampliar, ya que es preferible ampliar que reducir.
 
-# Dudas, preguntas y sugerencias
+# 5. Dudas, preguntas y sugerencias
 
 Click en el siguiente enlace para dejar tus dudas, preguntas y sugerencias
 
 [https://github.com/EdePC/lowerthirds/issues](https://github.com/EdePC/lowerthirds/issues)
 
-# Donaciones
+# 6. Donaciones
 
 [paypal.me/edepe](https://paypal.me/edepe)
